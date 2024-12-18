@@ -113,7 +113,7 @@ GND: Connect to the ground pin of the microcontroller.
 SDA: Connect to the SDA (data) pin of the microcontroller.
 SCL: Connect to the SCL (clock) pin of the microcontroller.
 
-Reference link :
+Reference link : https://www.youtube.com/watch?v=XsJ7lGa_TwY
 
 ## Future Enhancements  
 
