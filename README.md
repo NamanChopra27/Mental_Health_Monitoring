@@ -134,7 +134,8 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## Contact  
 
-For queries or support, contact **Naman Chopra** at [namanchopra777@gmail.com](mailto:namanchopra777@gmail.com).  
+For queries or support, contact Naman Chopra at namanchopra777@gmail.com. 
+Ankita R at rankitha01@gmail.com
 
 --- 
 
